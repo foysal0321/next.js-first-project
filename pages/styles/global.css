@@ -1,0 +1,17 @@
+nav ul{
+    display: flex;
+}
+ul li{
+    list-style: none;
+    text-decoration: none;
+
+}
+li a{
+    margin: 5px;
+    font-size: 18px;
+    text-decoration: none;
+    color: black;
+}
+.active{
+    color: rgb(21, 183, 43);
+}
